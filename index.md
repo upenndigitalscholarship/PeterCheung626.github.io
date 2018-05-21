@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Digital Humanities Projects at the Penn Libraries
 
-You can use the [editor on GitHub](https://github.com/PeterCheung626/PeterCheung626.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Digital Scholarship Team at the Penn Libraries offers a variety of partnership opportunities for students, faculty, and researchers interested in pursuing a digital project. Check out some of our current and past projects below!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -1,18 +1,25 @@
-## Digital Humanities Projects at the Penn Libraries
+# Digital Humanities Projects at the Penn Libraries
 
 The Digital Scholarship Team at the Penn Libraries offers a variety of partnership opportunities for students, faculty, and researchers interested in pursuing a digital project. Check out some of our current and past projects below!
 
-### Markdown
+##Team list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-# Omeka
-[THE PREFACE PROJECT](http://pennds.org/prefaceproject/)
-## Scalar
-[AGAINST THE CURRENT: COLLECTIVE WORKS ON STATE VIOLENCE, IDENTITY AND RESISTANCE](http://pennds.org/engl200blackfeminisms/radical-black-feminisms/index)
-### Neatline
-[Centennial Exhibition](http://pennds.org/centennial/)
+### Sasha Renninger
 ![Image](/image/sashafr125.jpg)
+### Scott Enderle​
+![Image](/image/enderlej125.jpg)
+
+##Projects
+### Omeka
+[THE PREFACE PROJECT](http://pennds.org/prefaceproject/)\
+![Image](/image/omeka_archive_ornamental_bodies.png)\
+### Scalar
+[AGAINST THE CURRENT: COLLECTIVE WORKS ON STATE VIOLENCE, IDENTITY AND RESISTANCE](http://pennds.org/engl200blackfeminisms/radical-black-feminisms/index)\
+![Image](/image/scalar-against-the-current.png)\
+### Neatline
+[Centennial Exhibition](http://pennds.org/centennial/)\
+![Image](/image/omeka_centennial.png)\
+
 
 ```markdown
 Syntax highlighted code block

@@ -6,15 +6,18 @@ The Digital Scholarship Team at the Penn Libraries offers a variety of partnersh
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Omeka
 [THE PREFACE PROJECT](http://pennds.org/prefaceproject/)
 ## Scalar
 [AGAINST THE CURRENT: COLLECTIVE WORKS ON STATE VIOLENCE, IDENTITY AND RESISTANCE](http://pennds.org/engl200blackfeminisms/radical-black-feminisms/index)
 ### Neatline
 [Centennial Exhibition](http://pennds.org/centennial/)
+![Image](/image/sashafr125.jpg)
+
+```markdown
+Syntax highlighted code block
+
+
 
 - Bulleted
 - List
@@ -24,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](/image/sashafr125.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -10,7 +10,10 @@ Sasha holds two degrees from Penn: her Bachelor’s is in Near Eastern Languages
 Scott comes from a background of studying English, holding both a M.A. and a Ph.D. in English from Penn, and he has over 10 years of programming experience. Scott specializes in statistical text analysis, machine learning, and data visualization. He collaborates with Penn faculty, staff, students, librarians, and the international community to facilitate the creation, use and re-use of data in both instructional and research environments.
 
 
-Laiqa Shariff   DH Graphic/Web Intern   2021  Undeclared
+*Laiqa Shariff*   
+DH Graphic/Web Intern   
+2021  
+Undeclared
 
 Nia Hammond     DH Graphic/Web Intern   2019  Psychology
 

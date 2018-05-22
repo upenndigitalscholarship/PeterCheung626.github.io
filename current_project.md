@@ -3,7 +3,7 @@
 The Schuylkill Corps River Archive is an interactive and growing public archive of citizen science and public humanities projects. Together we will discover and document the tidal river's past and present while collaboratively imagining its future.
 We will build customs plugins and a theme in Omeka for the Oral Histories, River Tours, and Archive Documentation.
 # Diggin’ Philly
-![Image](/image/DigginPhilly.png)
+![Image](/image/DigginPhilly.jpg)
 The Diggin’ Philly project is a large and ambitious project to document black Philadelphia particularly against a backdrop of rapid urban change including massive gentrification. This charter covers two specific parts of that project. First, the creation of a website that can be home to the project and provide access to a variety of content. Second, the development of an interactive map.
 # Philly American Sign Language Project
 ![Image](/image/PhillyAmericanSignLanguageProject.png)<br/>

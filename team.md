@@ -10,87 +10,46 @@ Sasha holds two degrees from Penn: her Bachelor’s is in Near Eastern Languages
 Scott comes from a background of studying English, holding both a M.A. and a Ph.D. in English from Penn, and he has over 10 years of programming experience. Scott specializes in statistical text analysis, machine learning, and data visualization. He collaborates with Penn faculty, staff, students, librarians, and the international community to facilitate the creation, use and re-use of data in both instructional and research environments.
 
 
-## Laiqa Shariff
-DH Graphic/Web Intern   
-2021  
-Undeclared
+### Laiqa Shariff
+DH Graphic/Web Intern   2021  Undeclared
 
 ### Nia Hammond
-    DH Graphic/Web Intern   2019  Psychology
+DH Graphic/Web Intern   2019  Psychology
 
-Najay Greenidge
+### Najay Greenidge
+DH Interactive Web Publishing Intern    2019    Cognitive Science
 
-DH Interactive Web Publishing Intern
+### Irene Zhang
+DH Interactive Web Publishing Intern    2021    Engineering
 
-2019
-Cognitive Science
-
-Irene Zhang
-
-DH Interactive Web Publishing Intern
-
-2021
-Engineering
-
-Lucy Ferry
-
-DH Interactive Web Publishing Intern
-
-2020
-Communications
+### Lucy Ferry
+DH Interactive Web Publishing Intern    2020    Communications
 
 
-Mariana Vega
-DH Interactive Web Publishing Intern
-
-2020
-English
+### Mariana Vega
+DH Interactive Web Publishing Intern    2020    English
 
 
-Curie Shim
+### Curie Shim
 
-DH Assistant Developer
-
-2020
-Systems Science & Engineering & Communications
+DH Assistant Developer    2020    Systems Science & Engineering & Communications
 
 
-Miranda Mote
-
-DH Graphic/Web Intern
-
-2019
-PhD Architecture (Landscape History)
+### Miranda Mote
+DH Graphic/Web Intern   201   PhD Architecture (Landscape History)
 
 
-Siyu Zheng
-
-DH Assistant Developer
-
-2019
-MCIT
+### Siyu Zheng
+DH Assistant Developer    2019    MCIT
 
 
-Yufan Cheng
-
-DH Assistant Developer
-
-2019
-MCIT
+### Yufan Cheng
+DH Assistant Developer    2019    MCIT
 
 
-Siyang You
+### Siyang You
+DH Assistant Developer    2019    MCIT
 
 
-DH Assistant Developer
-
-2019
-MCIT
-
-
-Emma Jang
-
-DH Graphic/Web Intern
-
-2021
-Wharton/Statistics or Mathematical Econ
+### Emma Jang
+DH Graphic/Web Intern   2021    Wharton/Statistics or Mathematical Econ

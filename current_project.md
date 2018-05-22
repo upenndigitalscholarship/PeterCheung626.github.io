@@ -23,7 +23,7 @@ This project tracks the reuse of lines from movies in fan fiction!
 [Link](http://159.203.127.128:8999/)<br/>
 A database collecting every printed copy of every early edition of individual plays by Shakespeare.
 # Medieval Chronicles and British Playbill Database
-![Image](/image/MedievalChronicles.png)
+![Image](/image/MedievalChronicles.jpg)
 [Link](http://159.203.127.128:8080/home)<br/>
 Two projects collecting hand-entered data for cultural histories -- Etymological Narratives in Medieval Folklore and British Theater in and outside of London.
 # Identifying Reports of Cultural Destruction

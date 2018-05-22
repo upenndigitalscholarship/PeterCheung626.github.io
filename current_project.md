@@ -6,7 +6,7 @@ We will build customs plugins and a theme in Omeka for the Oral Histories, River
 ![Image](/image/DigginPhilly.png)
 The Diggin’ Philly project is a large and ambitious project to document black Philadelphia particularly against a backdrop of rapid urban change including massive gentrification. This charter covers two specific parts of that project. First, the creation of a website that can be home to the project and provide access to a variety of content. Second, the development of an interactive map.
 # Philly American Sign Language Project
-![Image](/image/PhillyAmericanSignLanguageProject.png)
+![Image](/image/PhillyAmericanSignLanguageProject.png)<br/>
 This project will project will create an online resource for the Philadelphia dialect of American Sign Language. We will augment existing Omeka themes and plugins to serve the video recordings and archival collections of Philly ASL signs.
 # Toolkit for Archaeological Research and Analysis
 ![Image](/image/tara.png)

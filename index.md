@@ -1,5 +1,5 @@
 ---
-layout: homepage.html
+layout: homepage
 ---
 # Digital Humanities Projects at the Penn Libraries
 
